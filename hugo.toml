@@ -2,7 +2,7 @@ baseURL = 'https://tech.cotti.com.br/'
 languageCode = 'en-us'
 title = 'Eventually (In)Consistent'
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 theme = "re-terminal"
 pagination.pagerSize = 5
 
